@@ -5,7 +5,6 @@ const apiKey =
 
 $(document).ready(function () {
 	weatherFn('Pune');
-});
 
 async function weatherFn(cName) {
 	const temp =
